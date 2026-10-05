@@ -4,7 +4,7 @@ I'm currently pursuing a **PG Diploma in Global Business Operations at Shri Ram 
 
 I'm interested in **Growth Strategy, Product Strategy, Marketing and Business**, particularly work that involves understanding problems, researching markets, developing ideas and turning them into execution.
 
-I've had the opportunity to work with **early-stage and growing businesses** across product strategy, marketing, HR and operations. These experiences have given me exposure to different sides of how a business works — from understanding customers and markets to developing ideas and taking them through execution.
+I've had the opportunity to work with **early-stage and growing businesses** across product strategy, marketing, HR and operations. These experiences have given me exposure to different sides of how a business works - from understanding customers and markets to developing ideas and taking them through execution.
 
 ## A little about my work
 
