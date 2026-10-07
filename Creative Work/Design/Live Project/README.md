@@ -1,11 +1,33 @@
 # Live Project
 
-A selection of carousel designs created for social media as part of a product strategy live project.
+A selection of carousel designs created as part of a product strategy live project.
 
 ## Carousel Designs
 
-[![Carousel 1](./Live%20Project%20Carousel_1.jpg)](./Live%20Project%20Carousel_1.pdf)
+<table>
+<tr>
+<td align="center">
+<a href="./Live%20Project%20Carousel_1.pdf">
+<img src="./Live%20Project%20Carousel_1.jpg" width="250">
+</a>
+<br>
+Carousel 1
+</td>
 
-[![Carousel 2](./Live%20Project%20Carousel_2.jpg)](./Live%20Project%20Carousel_2.pdf)
+<td align="center">
+<a href="./Live%20Project%20Carousel_2.pdf">
+<img src="./Live%20Project%20Carousel_2.jpg" width="250">
+</a>
+<br>
+Carousel 2
+</td>
 
-[![Carousel 3](./Live%20Project%20Carousel_3.jpg)](./Live%20Project%20Carousel_3.pdf)
+<td align="center">
+<a href="./Live%20Project%20Carousel_3.pdf">
+<img src="./Live%20Project%20Carousel_3.jpg" width="250">
+</a>
+<br>
+Carousel 3
+</td>
+</tr>
+</table>
