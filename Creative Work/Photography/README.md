@@ -19,14 +19,14 @@ A collection of my work across personal and product photography, exploring compo
 
 <tr>
 <td><img src="./Golden%20Temple.jpg" width="250"></td>
+<td><img src="./Architecture_1.jpeg" width="250"></td>
 <td><img src="./Product%20Photography.jpg" width="250"></td>
-<td><img src="./Product%20Photography_1.jpeg" width="250"></td>
 </tr>
 
 <tr>
+<td><img src="./Product%20Photography_1.jpeg" width="250"></td>
 <td><img src="./Product%20Photography_2.jpeg" width="250"></td>
 <td><img src="./Product%20Photography_3.jpeg" width="250"></td>
-<td><img src="./Architecture_1.jpeg" width="250"></td>
 <td></td>
 </tr>
 
