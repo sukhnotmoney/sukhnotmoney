@@ -37,6 +37,7 @@ Carousel 3
 ## One-Pager Designs
 
 <p align="center">
-  <img src="./Live%20Project%20One%20Pager_1.png" width="350">
-  <img src="./Live%20Project%20One%20Pager_2.png" width="350">
+  <img src="./Live%20Project%20One%20Pager_1.png" width="250">
+  <img src="./Live%20Project%20One%20Pager_2.png" width="250">
+  <img src="./Live%20Project%20Poster.jpeg" width="250">
 </p>
