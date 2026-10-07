@@ -12,7 +12,7 @@ A collection of my work across personal and product photography, exploring compo
 </tr>
 
 <tr>
-<td><img src="./Street_1.jpg" width="250"></td>
+<td><img src="./Street_1.JPG" width="250"></td>
 <td><img src="./Street_2.jpg" width="250"></td>
 <td><img src="./Street_3.jpg" width="250"></td>
 </tr>
