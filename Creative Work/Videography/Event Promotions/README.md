@@ -51,4 +51,5 @@ A promotional video announcing the date of the GBO Seminar.
 
 ### GBO Seminar: Event Recap
 A recap capturing key moments and highlights from the GBO Seminar.
+
 [▶ Watch Video](https://drive.google.com/file/d/1Pc-aAOD0zSSfUCWruzr83DV4cQJzoDMd/view?usp=drive_link)
