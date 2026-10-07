@@ -34,7 +34,7 @@ Carousel 3
 </tr>
 </table>
 
-## One-Pager Designs
+## One-Pagers & Poster Designs
 
 <p align="center">
   <img src="./Live%20Project%20One%20Pager_1.png" width="250">
