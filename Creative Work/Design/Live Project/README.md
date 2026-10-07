@@ -1,6 +1,6 @@
 # Live Project
 
-A selection of carousel designs created for social media as part of a product strategy live project.
+A selection of carousel and one-pager designs created as part of a product strategy live project.
 
 ## Carousel Designs
 
@@ -32,7 +32,11 @@ Carousel 3
 </td>
 
 </tr>
-</table> 
-
-</tr>
 </table>
+
+## One-Pager Designs
+
+<p align="center">
+  <img src="./Live%20Project%20One%20Pager_1.png" width="350">
+  <img src="./Live%20Project%20One%20Pager_2.png" width="350">
+</p>
